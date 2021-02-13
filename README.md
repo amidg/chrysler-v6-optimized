@@ -6,8 +6,8 @@ This MATLAB algorithm allows to use fmincon() or genetic algorith to optimize an
 
 
 PREREQUISITES:
-Optimization toolbox (needed for fmincon)
-Global Optimization toolbox (needed for genetic algorith)
+1. Optimization toolbox (needed for fmincon)
+2. Global Optimization toolbox (needed for genetic algorith)
 
 
 HOW TO USE?
