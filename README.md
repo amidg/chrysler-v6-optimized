@@ -19,7 +19,8 @@ User needs to specify the following parameters for the initial conditions for bo
 5. Theoretical boost (kPA) that is safe for your engine block.
 
 Example:
-```xInitial = [0.0762, 0.1778, 6000, 304, 20.6]; %initial guess
+```
+xInitial = [0.0762, 0.1778, 6000, 304, 20.6]; %initial guess
 lower_boundary = [0.0508, 0.127, 6000, 304, 0]; %lower boundary
 upper_boundary = [0.0965, 0.2286, 6600, 363, 55]; %upper boundary
 ```
